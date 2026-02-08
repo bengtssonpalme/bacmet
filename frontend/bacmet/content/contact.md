@@ -1,39 +1,23 @@
 ---
 contact_info:
   - image: "/img/character.png"
-    name: "Test Testsson"
+    name: "Johan Bengtsson-Palme"
+    job_title: "Assitant Professor"
+    workplace: "Department of Life Sciences"
+    university: "Chalmers University of Technology"
+    email: "johan.bengtsson.palme@chalmers.se"
+  - image: 
+    name: "Joakim Larssonn"
     job_title: "Professor"
     workplace: "Department of Infectious Diseases"
     university: "University of Gothenburg"
-    email: "test.testsson@example.edu"
-    phone: "+xx xxx xx xx"
+    email: "joakim.larsson@fysiologi.gu.se"
   - image: 
-    name: "Testy Testskog"
-    job_title: "PhD student"
-    workplace: "Department of Biology"
-    university: "University of Uppsala"
-    email: "x@example.edu"
-  - image: 
-    name: "Test Testingsson"
-    job_title: "Teacher"
+    name: "Daniel Jaen-Luchoro"
+    job_title: "Curator, Culture Collection at University of Gothenburg"
     workplace: "Department of Infectious Diseases"
-    university: "University of Stockholm"
-    email: "testingsson@example.edu"
-    phone: "+xx xxx xx xx"
-  - image: 
-    name: "Anna Andersson"
-    job_title: "Researcher"
-    workplace: "Department of Chemistry"
-    university: "University of Lund"
-    email: "anna.andersson@example.edu"
-    phone: "+xx xxx xx xx"
-  - image: 
-    name: "Olle Olsson"
-    job_title: "Lab Technician"
-    workplace: "Department of Microbiology"
-    university: "University of Umeå"
-    email: "olle.olsson@example.edu"
-    phone: "+xx xxx xx xx"
+    university: "University of Gothenburg"
+    email: "daniel.jaen.luchoro@gu.se"
 ---
 
 # Contact us
