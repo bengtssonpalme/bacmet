@@ -2,7 +2,7 @@
     "description": "BacMet is an easy-to-use bioinformatics resource of antibacterial biocide- and metal-resistance genes.",
     "title": "BacMet",
     "brandName": "BacMet",
-    "copyright": "Copyright © 2013-2018 All rights reserved",
-    "contact": "info@example.com",
-    "attribution": "BacMet database/website was developed and designed by Chandan Pal and currently maintained by Joakim Larsson's team"
+    "copyright": "Copyright <C2><A9> 2013-2268 All rights reserved",
+    "contact": "johan.bengtsson.palme@chalmers.se",
+    "attribution": "This version of the BacMet database was developed by Daniel Jaen-Lochuro and with the website created by NBIS. The original BacMet database was developed by Chandan Pal. The database is currently maintained by Johan Bengtsson-Palme's team"
 }
